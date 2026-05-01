@@ -9,8 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
-
+Welcome to my Creative Space! I am an Electronics Engineer by degree and a Pencil Sketch Artist by passion.
 </header>
 
 <!--
